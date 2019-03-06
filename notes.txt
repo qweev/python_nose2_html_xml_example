@@ -1,2 +1,7 @@
 python 3x
 pluginy przez pip: nose2, nose2html
+
+.cfg plik jest do konfiguracji pluginow nose2
+
+# puszczaj komenda
+# nose2 -v -A flags=red
