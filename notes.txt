@@ -1,0 +1,2 @@
+python 3x
+pluginy przez pip: nose2, nose2html
